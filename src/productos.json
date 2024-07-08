@@ -1,0 +1,37 @@
+
+[    {
+        "id": 1,
+        "photo": "https://e7.pngegg.com/pngimages/968/681/png-clipart-samsung-6-series-ue40ku6000k-40-led-smart-tv-4k-ultrahd-led-backlit-lcd-ultra-high-definition-television-samsung-television-computer-monitor-accessory.png",
+        "nombre": "TV Samsung 40'",
+        "precio": 750.000,
+        "descripcion": "El televisor Samsung de 40 pulgadas es un modelo elegante y funcional que combina tecnología avanzada con un diseño moderno. Con una pantalla LED de 40 pulgadas, ofrece una resolución Full HD o incluso Ultra HD (4K), proporcionando imágenes nítidas y colores vibrantes para una experiencia visual inmersiva."
+    },
+    {
+        "id": 2,
+        "photo": "https://tienda.personal.com.ar/images/720/webp/i_Phone_14_Pro_Deep_Purple_303ce73cf6.png",
+        "nombre": "I Phone 8 Plus",
+        "precio": 300.000,
+        "descripcion": "El iPhone 8 Plus de Apple es un smartphone robusto y avanzado que combina un diseño elegante con potentes capacidades tecnológicas. Equipado con una pantalla Retina HD de 5.5 pulgadas, ofrece colores vibrantes y detalles nítidos. El iPhone 8 Plus está impulsado por el chip A11 Bionic, que proporciona un rendimiento rápido y eficiente, ideal para multitarea y juegos intensivos."
+    },
+    {
+        "id": 3,
+        "photo": "https://w7.pngwing.com/pngs/416/290/png-transparent-nikon-d90-af-s-dx-nikkor-18-105mm-f-3-5-5-6g-ed-vr-nikon-d7000-camera-digital-slr-camera-lens-camera-lens-photography.png",
+        "nombre": "Camara Nikon D90",
+        "precio": 400.000,
+        "descripcion": "La Nikon D90 es una cámara DSLR (Réflex Digital) de gama media que combina funcionalidad avanzada con facilidad de uso. Equipada con un sensor CMOS de 12.3 megapíxeles y el procesador de imagen EXPEED, captura imágenes de alta resolución con excelente calidad de color y detalle."
+    },
+    {
+        "id": 4,
+        "photo": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw567115ff/01.JBL_Tune%20520BT_Product%20Image_Hero_Blue.png?sw=537&sfrm=png",
+        "nombre": "Auriculares JBL",
+        "precio": 50.000,
+        "descripcion": "Los auriculares JBL son conocidos por combinar calidad de audio superior con comodidad y estilo. Ofrecen un sonido potente y bien equilibrado, ideal para música, películas y juegos. Los auriculares JBL suelen estar equipados con controladores de alta calidad y tecnología de cancelación de ruido o aislamiento acústico, asegurando una experiencia auditiva inmersiva."
+    },
+    {
+        "id": 5,
+        "photo":"https://dcdn.mitiendanube.com/stores/001/385/353/products/combo-teclado-y-mouse-pc-gamer-inalambrico-nkb40-noga-d_nq_np_761825-mla31320559315_072019-f1-61d0c9e2750eae615016299423328907-1024-1024.jpg",
+        "nombre": "Teclado y Mouse Noga",
+        "precio": 15.000,
+        "descripcion": "Los teclados y mouse de la marca Noga son conocidos por ofrecer una combinación de funcionalidad y precio accesible. Los teclados Noga suelen ser ergonómicos y ofrecen una pulsación cómoda y silenciosa, con teclas bien espaciadas para una experiencia de escritura eficiente."
+    }
+]

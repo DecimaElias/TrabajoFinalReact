@@ -1,0 +1,8 @@
+.enlaces {
+    background-color: rgb(96, 194, 83);
+    box-shadow: 4px 4px 7px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-bottom: 7px;
+    text-decoration: none;
+}
