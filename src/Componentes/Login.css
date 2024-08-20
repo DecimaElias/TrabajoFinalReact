@@ -1,34 +1,30 @@
 .log{
  
-    line-height: 4;
+    line-height: 2;
     background-color: rgb(161, 204, 151);
     box-shadow: 4px 4px 7px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    padding-bottom: 10px;
     width: 80%;
-    padding: 100px;
-    margin: auto;
-    margin-top: 50px;
-
-
-
-    padding: 100px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2rem;
     box-sizing: border-box;
     text-align: center;
-
 }
 
-.input{
-    width: 400%;
-}
 
 .reg1 {
     float: center;
     background-color: rgb(15, 92, 12);
-    width: 60%;
-    padding: 4%;
     color: rgb(218, 226, 217);
-    margin: 12px, 0;
     font-size: 20px;
+    box-shadow: 4px 4px 7px;
+    box-sizing: border-box;
+    text-align: center;
+
+    
+
+}
+
+.titlogin {
+    color: rgb(246, 252, 245);
 }

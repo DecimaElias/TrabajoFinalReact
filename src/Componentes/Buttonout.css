@@ -1,10 +1,8 @@
-.boton {
+.buttout {
     float: center;
     background-color: rgb(15, 92, 12);
-    width: 45%;
-    padding: 3%;
     color: rgb(218, 226, 217);
-    margin: 12px, 0;
     font-size: 20px;
-
+    box-sizing: border-box;
+    text-align: center;
 }

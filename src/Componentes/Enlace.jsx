@@ -1,12 +1,20 @@
 import './Enlace.css'
-import React from 'react'
-import { Link } from 'react-router-dom';
+import React, {useState} from 'react'
+import { NavLink } from 'react-router-dom';
+
 
 export const Enlace = () => {
-  return (
-    <nav className='enlaces'>
-          <Link to="/Login">Iniciar Sesion</Link>  |   <Link to="/Register">Registrarse</Link>
+ 
+   return (
+
+    <nav className='enlace'>
+      Si no tiene cuenta  puede <NavLink to="/Login">Registrarse</NavLink> para ver nuestros productos.
     
     </nav>
   )
-}
+};
+  
+ 
+
+
+

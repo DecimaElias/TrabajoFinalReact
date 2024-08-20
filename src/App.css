@@ -1,16 +1,17 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(71, 83, 69);
+  height: 100vh;
 }
 
 .Titulo {
     background-color: rgb(96, 194, 83);
-    padding: 1px;
-    display: flex;
     justify-content: center;
     font-size: 15px;
     text-align: center;
     box-shadow: 4px 4px 7px;
+    margin-bottom: 20px;
 }

@@ -30,6 +30,7 @@ export function Home() {
         <div>
             <h2>PRODUCTOS DISPONIBLES</h2>
             <ul className = "Productos">
+                
                 {productos.map(producto => (
                     <li key={producto.id}>
                         <img src={producto.photo} alt='fot' width="100"/>
